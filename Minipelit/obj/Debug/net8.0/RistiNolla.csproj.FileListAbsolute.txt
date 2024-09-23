@@ -1,0 +1,14 @@
+C:\Users\teemu\AppData\Local\tmc\vscode\C#\RistiNolla\bin\Debug\net8.0\RistiNolla.exe
+C:\Users\teemu\AppData\Local\tmc\vscode\C#\RistiNolla\bin\Debug\net8.0\RistiNolla.deps.json
+C:\Users\teemu\AppData\Local\tmc\vscode\C#\RistiNolla\bin\Debug\net8.0\RistiNolla.runtimeconfig.json
+C:\Users\teemu\AppData\Local\tmc\vscode\C#\RistiNolla\bin\Debug\net8.0\RistiNolla.dll
+C:\Users\teemu\AppData\Local\tmc\vscode\C#\RistiNolla\bin\Debug\net8.0\RistiNolla.pdb
+C:\Users\teemu\AppData\Local\tmc\vscode\C#\RistiNolla\obj\Debug\net8.0\RistiNolla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teemu\AppData\Local\tmc\vscode\C#\RistiNolla\obj\Debug\net8.0\RistiNolla.AssemblyInfoInputs.cache
+C:\Users\teemu\AppData\Local\tmc\vscode\C#\RistiNolla\obj\Debug\net8.0\RistiNolla.AssemblyInfo.cs
+C:\Users\teemu\AppData\Local\tmc\vscode\C#\RistiNolla\obj\Debug\net8.0\RistiNolla.csproj.CoreCompileInputs.cache
+C:\Users\teemu\AppData\Local\tmc\vscode\C#\RistiNolla\obj\Debug\net8.0\RistiNolla.dll
+C:\Users\teemu\AppData\Local\tmc\vscode\C#\RistiNolla\obj\Debug\net8.0\refint\RistiNolla.dll
+C:\Users\teemu\AppData\Local\tmc\vscode\C#\RistiNolla\obj\Debug\net8.0\RistiNolla.pdb
+C:\Users\teemu\AppData\Local\tmc\vscode\C#\RistiNolla\obj\Debug\net8.0\RistiNolla.genruntimeconfig.cache
+C:\Users\teemu\AppData\Local\tmc\vscode\C#\RistiNolla\obj\Debug\net8.0\ref\RistiNolla.dll
