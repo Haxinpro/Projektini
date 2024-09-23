@@ -1,0 +1,43 @@
+{
+    "Gregor": {
+        "dialogues": {
+            "1": "Show me your wares.",
+            "2": "What are the rumors for today?",
+            "3": "Do you know the guy named John Silver?",
+            "4": "Check reputation with the NPC.",
+            "5": "Sorry, I don't have time for a chat..."
+        },
+        "responses": {
+            "rumors": "I heard the blacksmith's been working on a secret project.",
+            "john_silver": "John Silver? He's a shady character, best to avoid him."
+        }
+    },
+    "Sarah": {
+        "dialogues": {
+            "1": "Show me your wares.",
+            "2": "What are the rumors for today?",
+            "3": "Do you know the guy named John Silver?",
+            "4": "Check reputation with the NPC.",
+            "5": "Sorry, I don't have time for a chat...",
+            "6": "I heard you work for the Black Beard."
+        },
+        "responses": {
+            "rumors": "There's talk of a treasure hidden in the northern hills.",
+            "john_silver": "John Silver? Yes, I've dealt with him before, but I wouldn't trust him.",
+            "black_beard": "That is just a rumor. I have never worked for the Black Beard nor have I ever seen him."
+        }
+    },
+    "Bromm": {
+        "dialogues": {
+            "1": "Have a look at my wares.",
+            "2": "Got any rumors to share?",
+            "3": "Know anything about John Silver?",
+            "4": "What’s my standing with you?",
+            "5": "I need to be going."
+        },
+        "responses": {
+            "rumors": "If you want to hear rumors, you have to earn it.",
+            "john_silver": "John Silver. That lad is one dangerous foe that I can tell. Lost me toe to him."
+        }
+    }
+}
